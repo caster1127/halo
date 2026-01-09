@@ -20,3 +20,11 @@ DOMAIN-SUFFIX,hupucdn.com
 DOMAIN-SUFFIX,hupujrs.com
 DOMAIN-SUFFIX,shihuo.cn
 DOMAIN-SUFFIX,vwanjia.com
+
+# Typeless 规则集 (直连模式)
+# 1. 核心业务域名 (API / 同步)
+DOMAIN-SUFFIX,typeless.com
+# 2. 静态资源域名 (CDN / 长连接)
+DOMAIN-SUFFIX,typeless-static.com
+# 3. 域名兜底 (防止未来新增域名)
+DOMAIN-KEYWORD,typeless
