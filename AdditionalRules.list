@@ -28,3 +28,6 @@ DOMAIN-SUFFIX,typeless.com
 DOMAIN-SUFFIX,typeless-static.com
 # 3. 域名兜底 (防止未来新增域名)
 DOMAIN-KEYWORD,typeless
+
+# time.apple
+DOMAIN,time.apple.com
