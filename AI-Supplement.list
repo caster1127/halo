@@ -12,6 +12,17 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # Google AI / Gemini
+# Gemini App Patch (migrated from General M.sgmodule)
+DOMAIN,gemini.google.com
+DOMAIN,bard.google.com
+DOMAIN,jnn-pa.googleapis.com
+DOMAIN,waa-pa.clients6.google.com
+DOMAIN,www.googleapis.com
+DOMAIN,apis.google.com
+DOMAIN,optimizationguide-pa.googleapis.com
+DOMAIN,content-autofill.googleapis.com
+DOMAIN,geller-pa.clients6.google.com
+# DOMAIN,speechbackend-pa.googleapis.com
 DOMAIN,geminilive-pa.googleapis.com
 DOMAIN,aiplatform.googleapis.com
 DOMAIN,cloudaicompanion-pa.googleapis.com
