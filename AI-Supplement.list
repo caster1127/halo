@@ -1,0 +1,53 @@
+# NAME:AI Supplement
+
+# OpenAI Support
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+
+# Claude Support
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# Google AI / Gemini
+DOMAIN,geminilive-pa.googleapis.com
+DOMAIN,aiplatform.googleapis.com
+DOMAIN,cloudaicompanion-pa.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+
+# Microsoft / GitHub Copilot
+DOMAIN-SUFFIX,microsoftcopilot.com
+DOMAIN,copilot.cloud.microsoft
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+
+# AI Coding Assistants
+DOMAIN-SUFFIX,anysphere.co
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,windsurf.com
+DOMAIN-SUFFIX,tabnine.com
+DOMAIN-SUFFIX,augmentcode.com
+DOMAIN-SUFFIX,supermaven.com
+DOMAIN-SUFFIX,continue.dev
+
+# Model Providers
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,together.ai
+DOMAIN-SUFFIX,fireworks.ai
+DOMAIN-SUFFIX,replicate.com
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+
+# AI Products / Creation
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,ideogram.ai
+DOMAIN-SUFFIX,runwayml.com
+DOMAIN-SUFFIX,krea.ai
+DOMAIN-SUFFIX,luma.ai
+DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,udio.com
