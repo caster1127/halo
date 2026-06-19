@@ -1,0 +1,12 @@
+[Rule]
+# > AI App Process (Mac only; Surge iOS ignores PROCESS-NAME)
+PROCESS-NAME,ChatGPT,AI
+PROCESS-NAME,codex,AI
+PROCESS-NAME,"Codex (Service)",AI
+PROCESS-NAME,Claude,AI
+PROCESS-NAME,"Claude Helper",AI
+PROCESS-NAME,"Claude Helper (Renderer)",AI
+PROCESS-NAME,"Claude Helper (GPU)",AI
+PROCESS-NAME,"Claude Helper (Plugin)",AI
+PROCESS-NAME,Cursor,AI
+PROCESS-NAME,"Cursor Helper",AI
