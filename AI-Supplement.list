@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,featuregates.org
 
 # Claude Support
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,browser-intake-us5-datadoghq.com
 
 # Google AI / Gemini
 # Gemini App Patch (migrated from General M.sgmodule)
