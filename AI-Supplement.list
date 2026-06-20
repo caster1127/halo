@@ -23,6 +23,24 @@ DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN,ogads-pa.clients6.google.com
 DOMAIN,signaler-pa.clients6.google.com
 DOMAIN-SUFFIX,gemini.gstatic.com
+
+# Gemini Web account/session support
+DOMAIN,accounts.google.com
+DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN,one.google.com
+
+# Gemini Web static/profile support
+DOMAIN,www.gstatic.com
+DOMAIN,fonts.gstatic.com
+DOMAIN,lh3.googleusercontent.com
+DOMAIN,lh3.google.com
+
+# Gemini Web / Chrome client support observed in Surge logs
+DOMAIN,clientservices.googleapis.com
+DOMAIN,clients4.google.com
+DOMAIN,android.clients.google.com
+DOMAIN,play.google.com
+DOMAIN,mtalk.google.com
 DOMAIN,www.googleapis.com
 DOMAIN,apis.google.com
 DOMAIN,optimizationguide-pa.googleapis.com
