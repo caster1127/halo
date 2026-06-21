@@ -1,6 +1,6 @@
 # NAME: Google-Account-US
 # UPDATED: 2026-06-22
-# PURPOSE: Google Account, Gmail, OAuth, and Search entry signals routed to a US policy group.
+# PURPOSE: Google Account, Gmail, OAuth, Search, and Workspace entry signals routed to a US policy group.
 # USAGE: RULE-SET,https://raw.githubusercontent.com/caster1127/halo/refs/heads/main/Google-Account-US.list,Google_Account
 
 DOMAIN,accounts.google.com
@@ -15,3 +15,13 @@ DOMAIN,www.google.com
 DOMAIN,www.google.com.hk
 DOMAIN,www.google.co.jp
 DOMAIN,ogs.google.com
+
+# Google Workspace / Gmail UI support
+DOMAIN,contacts.google.com
+DOMAIN,calendar.google.com
+DOMAIN,workspaceui-pa.clients6.google.com
+DOMAIN,peoplestack-pa.clients6.google.com
+DOMAIN,peoplestackwebexperiments-pa.clients6.google.com
+DOMAIN,taskassist-pa.clients6.google.com
+DOMAIN,addons-pa.clients6.google.com
+DOMAIN,studio.workspace.google.com
