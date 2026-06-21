@@ -1,7 +1,7 @@
 # NAME: Google-Account-US
 # UPDATED: 2026-06-22
 # PURPOSE: Google Account, Gmail, OAuth, Search, and Workspace entry signals routed to a US policy group.
-# USAGE: RULE-SET,https://raw.githubusercontent.com/caster1127/halo/refs/heads/main/Google-Account-US.list,Google_Account
+# USAGE: RULE-SET,https://raw.githubusercontent.com/caster1127/halo/main/Google-Account-US.list,Google_Account
 
 DOMAIN,accounts.google.com
 DOMAIN,myaccount.google.com
