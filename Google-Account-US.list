@@ -15,6 +15,7 @@ DOMAIN,www.google.com
 DOMAIN,www.google.com.hk
 DOMAIN,www.google.co.jp
 DOMAIN,ogs.google.com
+DOMAIN,policies.google.com
 
 # Google Workspace / Gmail UI support
 DOMAIN,contacts.google.com
