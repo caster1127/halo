@@ -1,0 +1,64 @@
+# NAME: Google-US
+# UPDATED: 2026-06-27
+# PURPOSE: Broad Google identity and service routing to a US policy group. Keep AI-specific domains in AI rules when possible, but routing is also US-first in VK.
+# USAGE: RULE-SET,https://raw.githubusercontent.com/caster1127/halo/main/Google-US.list,Google_Account
+
+# Google Account / OAuth / policy
+DOMAIN,accounts.google.com
+DOMAIN,myaccount.google.com
+DOMAIN,oauth2.googleapis.com
+DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN,ogs.google.com
+DOMAIN,policies.google.com
+DOMAIN,signin.google.com
+
+# Search and core Google entry points
+DOMAIN,www.google.com
+DOMAIN,www.google.com.hk
+DOMAIN,www.google.co.jp
+DOMAIN-SUFFIX,google.com
+
+# Gmail / Contacts / Calendar / Workspace
+DOMAIN,mail.google.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN,contacts.google.com
+DOMAIN,calendar.google.com
+DOMAIN,workspace.google.com
+DOMAIN,studio.workspace.google.com
+DOMAIN,workspaceui-pa.clients6.google.com
+DOMAIN,peoplestack-pa.clients6.google.com
+DOMAIN,peoplestackwebexperiments-pa.clients6.google.com
+DOMAIN,taskassist-pa.clients6.google.com
+DOMAIN,addons-pa.clients6.google.com
+
+# Drive / Docs / user content
+DOMAIN,docs.google.com
+DOMAIN,drive.google.com
+DOMAIN,www.googleapis.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googleusercontent.cn
+DOMAIN-SUFFIX,usercontent.goog
+
+# Play / Pay / family and subscription signals
+DOMAIN,pay.google.com
+DOMAIN,payments.google.com
+DOMAIN,play.google.com
+DOMAIN,families.google.com
+DOMAIN-SUFFIX,googleapis.com
+
+# Google UI support / static assets / browser support
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,withgoogle.com
+DOMAIN-SUFFIX,clients4.google.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+
+# Google ads / tags seen in account and Gmail surfaces
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,doubleclick.net
