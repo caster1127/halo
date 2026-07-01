@@ -7,6 +7,8 @@ DOMAIN,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
+DOMAIN,o33249.ingest.us.sentry.io
+DOMAIN,browser-intake-datadoghq.com
 
 # Claude Support
 DOMAIN-SUFFIX,claudeusercontent.com
@@ -88,3 +90,4 @@ DOMAIN-SUFFIX,luma.ai
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,suno.com
 DOMAIN-SUFFIX,udio.com
+
