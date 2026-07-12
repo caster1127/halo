@@ -1,0 +1,19 @@
+# NAME: Gemini
+# UPDATED: 2026-07-12
+# PURPOSE: Precise Gemini Web, Google AI Studio, and Gemini API routing.
+# Keep shared Google identity, static assets, and broad Google APIs in Google-US.list.
+
+# Gemini Web and legacy Bard entry points
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,bard.google.com
+
+# Google AI Studio and developer surfaces
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN,makersuite.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+
+# Gemini API and app backends
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,generativeai.google
