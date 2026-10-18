@@ -62,6 +62,8 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 
 # AI Coding Assistants
+# Grok Bot / Cursor hosted computers
+DOMAIN-SUFFIX,cursorvm.com
 DOMAIN-SUFFIX,anysphere.co
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,windsurf.com
