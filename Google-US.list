@@ -17,6 +17,7 @@ DOMAIN,www.google.com
 DOMAIN,www.google.com.hk
 DOMAIN,www.google.co.jp
 DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.cn
 
 # Gmail / Contacts / Calendar / Workspace
 DOMAIN,mail.google.com
@@ -46,9 +47,11 @@ DOMAIN,payments.google.com
 DOMAIN,play.google.com
 DOMAIN,families.google.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
 
 # Google UI support / static assets / browser support
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,clients6.google.com
