@@ -5,7 +5,6 @@
 
 # Google Account / OAuth / policy
 DOMAIN,accounts.google.com
-DOMAIN,accounts.youtube.com
 DOMAIN,www.recaptcha.net
 DOMAIN,myaccount.google.com
 DOMAIN,oauth2.googleapis.com
